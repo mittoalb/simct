@@ -9,6 +9,3 @@ dependencies:
   - matplotlib
   - ipywidgets
   - scikit-image
-  - pip
-  - pip:
-    - math
