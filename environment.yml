@@ -1,0 +1,15 @@
+name: simct
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - math
+  - pip
+  - skimage
+  - cupy
+  - pip:
+    - matplotlib
+    - ipywidgets
+    - pandas
