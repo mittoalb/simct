@@ -7,9 +7,9 @@ dependencies:
   - scipy
   - math
   - pip
-  - skimage
   - cupy
   - pip:
     - matplotlib
     - ipywidgets
     - pandas
+    - scikit-image
