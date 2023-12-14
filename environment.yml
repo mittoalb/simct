@@ -10,5 +10,5 @@ dependencies:
   - ipywidgets
   - scikit-image
   - pip
-  pip:
+  - pip:
     - math
